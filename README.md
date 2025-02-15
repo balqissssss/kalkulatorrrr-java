@@ -20,5 +20,6 @@ Anda seorang asisten junior programmer diminta untuk membuat aplikasi kalkulator
 
 # Foto Pembuat:
 
-![WhatsApp Image 2025-02-13 at 09 57 11_dbd87cff](https://github.com/user-attachments/assets/fe943290-f184-41a7-bccb-5737a7134716)
+![WhatsApp Image 2025-02-13 at 09 57 11_dbd87cff](https://github.com/user-attachments/assets/a03f77fb-3f7f-49f3-85f4-f795216b8fa0)
+
 
